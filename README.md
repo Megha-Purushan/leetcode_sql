@@ -6,4 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Megha-Purushan/leetcode_sql/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Megha-Purushan/leetcode_sql/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Megha-Purushan/leetcode_sql/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Math
+|  |
+| ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Megha-Purushan/leetcode_sql/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Number Theory
+|  |
+| ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Megha-Purushan/leetcode_sql/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 <!---LeetCode Topics End-->
