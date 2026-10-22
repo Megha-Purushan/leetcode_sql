@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Megha-Purushan/leetcode_sql/tree/master/0088-merge-sorted-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Megha-Purushan/leetcode_sql/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Math
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Megha-Purushan/leetcode_sql/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Megha-Purushan/leetcode_sql/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Megha-Purushan/leetcode_sql/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
